@@ -56,3 +56,5 @@ After training, evaluate the model using validation data to compute metrics such
 Results
 
 PSNR: 19.65157681772904
+MSE:  0.011843454
+MAE:  0.06460483
